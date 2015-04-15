@@ -1,0 +1,10 @@
+code,title,value,latest_date,source,source_link,notes,explore,units
+mli_sev_food_sec,Number of people affected by severe food insecurity,270734,2015-02-01,"CSA, WFP, FAO, Food Security Cluster",https://data.hdx.rwlabs.org/dataset/2014-2015-food-security-ipc-analysis,IPC is updated annually,,count
+mli_mod_food_sec,Number of people affected by moderate food insecurity,1799401,2015-02-01,"CSA, WFP, FAO, Food Security Cluster",https://data.hdx.rwlabs.org/dataset/2014-2015-food-security-ipc-analysis,IPC is updated annually,,count
+mli_num_idps,Number of IDPs,86026,2014-10-01,"IOM, Commission on Population Movements",https://data.hdx.rwlabs.org/dataset/idps-data-by-region-in-mali,This monthly data was last updated in october 2014,,count
+mli_child_sam,Children under five affected by severe acute malnutrition,181009,2015-01-01,"UNICEF, DNS, Nutrition Cluster",https://data.hdx.rwlabs.org/dataset/2014-nutrition-smart-survey-results-and-2015-trends,,,count
+mli_infants_mam,Infants (6-9 mths) affected by moderate acute malnutrition,534267,2015-01-01,"UNICEF, DNS, Nutrition Cluster",https://data.hdx.rwlabs.org/dataset/2014-nutrition-smart-survey-results-and-2015-trends,,,count
+mli_cap_coverage,Response plan coverage,"0.15
+",2015-01-01,FTS,https://data.hdx.rwlabs.org/dataset/mli_fts_indicators,,,ratio
+mli_pop,Estimated 2015 population,17819000,2009-12-31,DNP - Direction Nationale de la Population,https://data.hdx.rwlabs.org/dataset/population-of-mali-disaggregated-by-age,Estimated population based on 2009 data,,million
+mli_gdp_capita,GDP per capita ,1641.83,2013-01-01,World Bank,https://data.hdx.rwlabs.org/dataset/gdp_per_capita_ppp,,,dollars
